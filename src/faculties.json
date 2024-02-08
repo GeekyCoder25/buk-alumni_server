@@ -1,0 +1,77 @@
+[
+  {
+    "faculty": "Engineering",
+    "departments": [
+      "Electrical",
+      "Mechanical",
+      "Civil",
+      "Chemical",
+      "Aerospace",
+      "Industrial"
+    ]
+  },
+  {
+    "faculty": "Science",
+    "departments": ["Physics", "Chemistry", "Biology", "Mathematics", "Geology"]
+  },
+  {
+    "faculty": "Computer Science",
+    "departments": [
+      "Software Engineering",
+      "Data Science",
+      "Networks",
+      "Artificial Intelligence",
+      "Machine Learning"
+    ]
+  },
+  {
+    "faculty": "Business",
+    "departments": [
+      "Marketing",
+      "Finance",
+      "Management",
+      "Economics",
+      "Accounting"
+    ]
+  },
+  {
+    "faculty": "Health Sciences",
+    "departments": [
+      "Nursing",
+      "Physiology",
+      "Pharmacy",
+      "Public Health",
+      "Nutrition"
+    ]
+  },
+  {
+    "faculty": "Arts",
+    "departments": [
+      "English",
+      "History",
+      "Psychology",
+      "Sociology",
+      "Philosophy"
+    ]
+  },
+  {
+    "faculty": "Agriculture",
+    "departments": [
+      "Crop Science",
+      "Animal Science",
+      "Agricultural Economics",
+      "Agricultural Engineering",
+      "Soil Science"
+    ]
+  },
+  {
+    "faculty": "Law",
+    "departments": [
+      "Criminal Law",
+      "Civil Law",
+      "International Law",
+      "Corporate Law",
+      "Constitutional Law"
+    ]
+  }
+]

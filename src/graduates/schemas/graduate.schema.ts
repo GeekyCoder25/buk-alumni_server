@@ -33,7 +33,7 @@ export class User {
   post: string;
 
   @Prop()
-  nick_name: string;
+  nickname: string;
 
   @Prop()
   address: string;
